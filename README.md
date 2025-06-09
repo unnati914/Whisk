@@ -1,5 +1,3 @@
-### README.md
-
 # Whisk 🧃
 
 A soft, mood-powered, programming language that literally comforts you back
