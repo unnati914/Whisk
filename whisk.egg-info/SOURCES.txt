@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+setup.py
+whisk/__init__.py
+whisk/cli.py
+whisk/interpreter.py
+whisk.egg-info/PKG-INFO
+whisk.egg-info/SOURCES.txt
+whisk.egg-info/dependency_links.txt
+whisk.egg-info/top_level.txt
